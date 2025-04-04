@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 public class WeatherApp {
     static Scanner sc = new Scanner(System.in);
